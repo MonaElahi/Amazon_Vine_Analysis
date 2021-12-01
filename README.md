@@ -41,7 +41,7 @@ From the above results it can be clearly seen that there is NO positivity bias f
 
 To support the above analysis following is explanation.
 
-- Vine paid reviews are 266 and 
+- Vine paid reviews are 266 and, 
 - Vine Non paid reviews are 38,829
 
 Interestingly the 5 star paid and non paid reviews percentages rhymes with each other that is exactly 46.99%
